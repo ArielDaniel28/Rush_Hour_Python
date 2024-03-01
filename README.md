@@ -1,11 +1,11 @@
 
-Rush Hour Game
+## Rush Hour Game
 This Python program implements the Rush Hour game, where the player needs to maneuver vehicles to clear a path for a specific car to exit the game board.
 
-Introduction
+## Introduction
 Rush Hour is a sliding block puzzle game that challenges players to navigate a congested traffic jam by moving vehicles out of the way. The game consists of a 6x6 grid (although this implementation uses a 7x7 grid) with vehicles of varying lengths placed horizontally or vertically. The objective is to clear a path for the red car (marked as 'X') to exit the grid.
 
-Usage
+## Usage
 To play the Rush Hour game, follow these steps:
 
 Run the Python script rush_hour.py.
