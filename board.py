@@ -10,6 +10,9 @@ class Board:
     """
 
     def __init__(self):
+        """
+        Initializes a Board object with a graphic representation and an empty list of cars.
+        """
         self.__graphic_board = self._make_board()
         self.__cars_on_board = []
 
